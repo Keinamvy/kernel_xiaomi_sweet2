@@ -200,4 +200,6 @@ obj-$(CONFIG_AINUR_DTS_SW) += dts_eagle/
 # DTS_EAGLE END
 
 # kernelSU
-obj-$(CONFIG_KSU)	+= kernelsu/
+
+
+obj-$(CONFIG_KSU) += kernelsu/
